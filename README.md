@@ -40,25 +40,37 @@ Compared with standalone lyric tools, SunoBoard keeps the lyric video workflow c
 
 Download Suno tracks as MP3 or WAV with a Chrome extension built for Suno creators, then keep files organized outside the Suno website.
 
+![Suno Downloader](assets/thumbnails/thumbnail-downloader.webp)
+
 ### Suno Batch Downloader
 
 Export a full Suno workspace instead of saving songs one by one. Batch export can include audio, lyrics, and metadata so a growing Suno library stays usable.
+
+![Suno Batch Downloader](assets/thumbnails/thumbnail-batch-downloader.webp)
 
 ### Suno Lyric Video Maker
 
 Turn a Suno song into a lyric video with synced lyrics, visual styles, and video export without starting from a traditional editor.
 
+![Suno Lyric Video Maker](assets/thumbnails/thumbnail-lyric-video-maker.webp)
+
 ### Suno Video Maker
 
 Build music videos and visualizers from Suno tracks, cover art, AI artwork, and audio-reactive visuals.
+
+![Suno Video Maker](assets/thumbnails/thumbnail-video-maker.webp)
 
 ### YouTube Workflow
 
 Prepare YouTube-ready AI music videos with landscape export, lyric overlays, visualizers, titles, descriptions, and chapters. SunoBoard helps creators create the video and publishing assets for manual publishing.
 
+![YouTube Workflow](assets/thumbnails/thumbnail-youtube.webp)
+
 ### TikTok, Reels, and Shorts Workflow
 
 Create vertical clips from Suno songs with 9:16 export, short lyric moments, hook clips, and visualizer formats for short-form platforms.
+
+![TikTok, Reels, and Shorts Workflow](assets/thumbnails/thumbnail-tiktok.webp)
 
 ## Privacy and Local Processing
 
