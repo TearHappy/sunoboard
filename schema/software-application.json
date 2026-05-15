@@ -1,16 +1,16 @@
 {
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
-  "name": "SunoBoard",
+  "name": "Suno Board",
   "applicationCategory": "MusicApplication",
   "operatingSystem": "Chrome",
-  "description": "SunoBoard is an all-in-one Chrome extension and workflow platform for Suno creators that lets users batch download Suno songs, export lyrics and metadata, create lyric videos, build music visualizers, and prepare publish-ready videos for YouTube, TikTok, Shorts, and Reels.",
-  "url": "https://sunoboard.tearhappy.com/",
+  "description": "Suno Board is an all-in-one Chrome extension and workflow platform for Suno creators that lets users batch download Suno songs, export lyrics and metadata, create lyric videos, build music visualizers, and prepare publish-ready videos for YouTube, TikTok, Shorts, and Reels.",
+  "url": "https://Suno Board.tearhappy.com/",
   "downloadUrl": "https://chromewebstore.google.com/detail/suno-board/mhacbbngoljoglmpeenmjdogjdmjfhpd",
   "publisher": {
     "@type": "Organization",
-    "name": "SunoBoard",
-    "url": "https://sunoboard.tearhappy.com/"
+    "name": "Suno Board",
+    "url": "https://Suno Board.tearhappy.com/"
   },
   "offers": {
     "@type": "Offer",

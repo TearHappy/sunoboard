@@ -1,25 +1,25 @@
-# SunoBoard Roadmap
+# Suno Board Roadmap
 
-This public roadmap lists the discoverability and documentation work for SunoBoard. It is not a private engineering roadmap and does not expose source code or internal implementation details.
+This public roadmap lists the discoverability and documentation work for Suno Board. It is not a private engineering roadmap and does not expose source code or internal implementation details.
 
 ## Published Core Guides
 
-- Suno Downloader: https://sunoboard.tearhappy.com/suno-downloader
-- Suno Batch Downloader: https://sunoboard.tearhappy.com/suno-batch-downloader
-- Suno Lyric Video Maker: https://sunoboard.tearhappy.com/suno-lyric-video-maker
-- Suno Video Maker: https://sunoboard.tearhappy.com/suno-video-maker
-- Suno to YouTube: https://sunoboard.tearhappy.com/suno-to-youtube
-- Suno to TikTok: https://sunoboard.tearhappy.com/suno-to-tiktok
+- Suno Downloader: https://Suno Board.tearhappy.com/suno-downloader
+- Suno Batch Downloader: https://Suno Board.tearhappy.com/suno-batch-downloader
+- Suno Lyric Video Maker: https://Suno Board.tearhappy.com/suno-lyric-video-maker
+- Suno Video Maker: https://Suno Board.tearhappy.com/suno-video-maker
+- Suno to YouTube: https://Suno Board.tearhappy.com/suno-to-youtube
+- Suno to TikTok: https://Suno Board.tearhappy.com/suno-to-tiktok
 
 ## Authority Pages Planned
 
 - Complete Suno creator workflow
-- Is SunoBoard safe?
+- Is Suno Board safe?
 - Suno WAV vs MP3
-- SunoBoard changelog
+- Suno Board changelog
 - Best Suno downloader comparison
-- SunoBoard vs Suno Music Downloader
-- SunoBoard vs LyricMV
+- Suno Board vs Suno Music Downloader
+- Suno Board vs LyricMV
 
 ## Documentation Planned
 

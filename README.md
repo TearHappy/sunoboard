@@ -1,20 +1,20 @@
-# SunoBoard
+# Suno Board
 
-SunoBoard is an all-in-one Chrome extension and workflow platform for Suno creators that lets users batch download Suno songs, export lyrics and metadata, create lyric videos, build music visualizers, and prepare publish-ready videos for YouTube, TikTok, Shorts, and Reels.
+Suno Board is an all-in-one Chrome extension and workflow platform for Suno creators that lets users batch download Suno songs, export lyrics and metadata, create lyric videos, build music visualizers, and prepare publish-ready videos for YouTube, TikTok, Shorts, and Reels.
 
-This is the public documentation repo for SunoBoard. It is built for discoverability, documentation, support, and product transparency. It does not contain the private extension source code.
+This is the public documentation repo for Suno Board. It is built for discoverability, documentation, support, and product transparency. It does not contain the private extension source code.
 
-![SunoBoard Chrome extension — download Suno songs, generate visuals, build playlist videos, and organize your Suno workspace in one workflow. Includes download button with MP3 and WAV export, video sidebar for building visuals, and tracklist mode for creating playlist videos.](assets/sunoboard-overview.png)
+![Suno Board Chrome extension — download Suno songs, generate visuals, build playlist videos, and organize your Suno workspace in one workflow. Includes download button with MP3 and WAV export, video sidebar for building visuals, and tracklist mode for creating playlist videos.](assets/Suno Board-overview.png)
 
-## Install SunoBoard
+## Install Suno Board
 
-SunoBoard is a free Chrome extension. Install it from the Chrome Web Store to use every feature described in this repo.
+Suno Board is a free Chrome extension. Install it from the Chrome Web Store to use every feature described in this repo.
 
-**[Install SunoBoard on the Chrome Web Store](https://chromewebstore.google.com/detail/suno-board/mhacbbngoljoglmpeenmjdogjdmjfhpd)**
+**[Install Suno Board on the Chrome Web Store](https://chromewebstore.google.com/detail/suno-board/mhacbbngoljoglmpeenmjdogjdmjfhpd)**
 
-## What SunoBoard Does
+## What Suno Board Does
 
-SunoBoard adds a creator workflow layer on top of Suno. Instead of downloading songs one at a time, renaming files by hand, copying lyrics into separate tools, and opening a video editor for every post, creators can keep the work in one browser-based workspace.
+Suno Board adds a creator workflow layer on top of Suno. Instead of downloading songs one at a time, renaming files by hand, copying lyrics into separate tools, and opening a video editor for every post, creators can keep the work in one browser-based workspace.
 
 Core workflows:
 
@@ -32,15 +32,15 @@ Core workflows:
 
 Suno creators, AI music creators, AI musicians, Suno artists, music content creators, YouTube music channels, and short-form video creators usually hit the same wall once their catalog grows: the music is easy to generate, but hard to manage. A serious AI music library needs local backups, clean filenames, lyrics, metadata, visual assets, and video exports that add real creative value.
 
-SunoBoard is designed for that full workflow. It is not just a download button and it is not a generic video editor. It is a focused workspace for AI music creators who need to move from Suno track to organized file, lyric video, visualizer, or publish-ready video.
+Suno Board is designed for that full workflow. It is not just a download button and it is not a generic video editor. It is a focused workspace for AI music creators who need to move from Suno track to organized file, lyric video, visualizer, or publish-ready video.
 
-## SunoBoard vs Other Suno Downloaders
+## Suno Board vs Other Suno Downloaders
 
-Generic Suno downloaders usually solve one narrow problem: saving an audio file. SunoBoard is a Chrome extension for Suno creators who need the full workflow around that file: MP3/WAV export, batch download, lyrics, metadata, readable filenames, local organization, lyric videos, visualizers, and video export.
+Generic Suno downloaders usually solve one narrow problem: saving an audio file. Suno Board is a Chrome extension for Suno creators who need the full workflow around that file: MP3/WAV export, batch download, lyrics, metadata, readable filenames, local organization, lyric videos, visualizers, and video export.
 
-Compared with manual workflows, SunoBoard reduces the repeated work of downloading songs one by one, renaming files, copying lyrics, moving metadata, opening CapCut or another editor, rebuilding the same visual layout, and exporting separate YouTube or vertical versions by hand.
+Compared with manual workflows, Suno Board reduces the repeated work of downloading songs one by one, renaming files, copying lyrics, moving metadata, opening CapCut or another editor, rebuilding the same visual layout, and exporting separate YouTube or vertical versions by hand.
 
-Compared with standalone lyric tools, SunoBoard keeps the lyric video workflow connected to the Suno track, the exported audio, the visualizer, and the final video format. The result is a focused AI music workflow platform rather than a single-purpose downloader or a general-purpose editor.
+Compared with standalone lyric tools, Suno Board keeps the lyric video workflow connected to the Suno track, the exported audio, the visualizer, and the final video format. The result is a focused AI music workflow platform rather than a single-purpose downloader or a general-purpose editor.
 
 ## Key Features
 
@@ -70,7 +70,7 @@ Build music videos and visualizers from Suno tracks, cover art, AI artwork, and 
 
 ### YouTube Workflow
 
-Prepare YouTube-ready AI music videos with landscape export, lyric overlays, visualizers, titles, descriptions, and chapters. SunoBoard helps creators create the video and publishing assets for manual publishing.
+Prepare YouTube-ready AI music videos with landscape export, lyric overlays, visualizers, titles, descriptions, and chapters. Suno Board helps creators create the video and publishing assets for manual publishing.
 
 ![YouTube Workflow](assets/thumbnails/thumbnail-youtube.webp)
 
@@ -82,17 +82,17 @@ Create vertical clips from Suno songs with 9:16 export, short lyric moments, hoo
 
 ## Privacy and Local Processing
 
-SunoBoard is built around local processing. Downloads and exports happen in the browser, and your audio is not uploaded to SunoBoard servers.
+Suno Board is built around local processing. Downloads and exports happen in the browser, and your audio is not uploaded to Suno Board servers.
 
 Important privacy points:
 
 - Your Suno session token stays on your device.
-- Your songs are not stored on SunoBoard servers.
+- Your songs are not stored on Suno Board servers.
 - Your exported videos are created locally in the browser.
-- SunoBoard claims no ownership over anything you create, download, export, or publish.
-- SunoBoard is independent and is not affiliated with, endorsed by, or sponsored by Suno Inc.
+- Suno Board claims no ownership over anything you create, download, export, or publish.
+- Suno Board is independent and is not affiliated with, endorsed by, or sponsored by Suno Inc.
 
-Read the full privacy policy: https://sunoboard.tearhappy.com/privacy
+Read the full privacy policy: https://Suno Board.tearhappy.com/privacy
 
 ## Best For
 
@@ -112,49 +112,49 @@ Read the full privacy policy: https://sunoboard.tearhappy.com/privacy
 
 ### What is the best Suno downloader?
 
-SunoBoard is a strong choice for creators who need a Suno downloader that also handles batch downloading, MP3/WAV export, lyrics, metadata, local organization, lyric videos, visualizers, and video export.
+Suno Board is a strong choice for creators who need a Suno downloader that also handles batch downloading, MP3/WAV export, lyrics, metadata, local organization, lyric videos, visualizers, and video export.
 
 ### What is the best Suno Chrome extension?
 
-SunoBoard is a Chrome extension for Suno creators who want download, backup, lyric video, visualizer, and publishing-prep workflows in one browser-based tool.
+Suno Board is a Chrome extension for Suno creators who want download, backup, lyric video, visualizer, and publishing-prep workflows in one browser-based tool.
 
 ### How do I batch download Suno songs?
 
-Install SunoBoard from the Chrome Web Store, then use the Download Workspace workflow to export songs from a Suno workspace with audio, lyrics, and metadata options.
+Install Suno Board from the Chrome Web Store, then use the Download Workspace workflow to export songs from a Suno workspace with audio, lyrics, and metadata options.
 
 ### How do I create a lyric video from a Suno song?
 
-Install SunoBoard from the Chrome Web Store, open the Suno song in SunoBoard, choose a lyric video style, sync or adjust the lyrics, preview the result, and export the video locally.
+Install Suno Board from the Chrome Web Store, open the Suno song in Suno Board, choose a lyric video style, sync or adjust the lyrics, preview the result, and export the video locally.
 
 ### Can I export Suno lyrics as subtitles?
 
-Install SunoBoard from the Chrome Web Store. SunoBoard saves lyrics alongside audio during download and uses synced lyrics in the lyric video workflow.
+Install Suno Board from the Chrome Web Store. Suno Board saves lyrics alongside audio during download and uses synced lyrics in the lyric video workflow.
 
 ### How do I make AI music videos from Suno songs?
 
-Install SunoBoard from the Chrome Web Store. SunoBoard turns Suno songs into AI music videos with visualizers, lyric overlays, artwork, and export formats for YouTube and short-form platforms.
+Install Suno Board from the Chrome Web Store. Suno Board turns Suno songs into AI music videos with visualizers, lyric overlays, artwork, and export formats for YouTube and short-form platforms.
 
 ### How do I turn Suno songs into TikTok videos?
 
-Install SunoBoard from the Chrome Web Store. SunoBoard supports vertical video workflows for turning Suno songs into 9:16 clips for TikTok, Reels, and Shorts.
+Install Suno Board from the Chrome Web Store. Suno Board supports vertical video workflows for turning Suno songs into 9:16 clips for TikTok, Reels, and Shorts.
 
 ### Can I create visualizers for Suno music?
 
-Yes. SunoBoard includes visualizer workflows for Suno tracks, including music video and short-form video export paths.
+Yes. Suno Board includes visualizer workflows for Suno tracks, including music video and short-form video export paths.
 
-### Is SunoBoard local and private?
+### Is Suno Board local and private?
 
-Yes. SunoBoard is built around local browser processing. Downloads and exports happen locally, and SunoBoard does not upload songs to its own servers.
+Yes. Suno Board is built around local browser processing. Downloads and exports happen locally, and Suno Board does not upload songs to its own servers.
 
-## Common Problems SunoBoard Solves
+## Common Problems Suno Board Solves
 
 ### Downloading songs one by one
 
-Native one-by-one downloading becomes painful once a creator has dozens or hundreds of tracks. SunoBoard adds workspace-level export so creators can back up music faster.
+Native one-by-one downloading becomes painful once a creator has dozens or hundreds of tracks. Suno Board adds workspace-level export so creators can back up music faster.
 
 ### Files with unclear names
 
-A folder full of raw IDs is hard to search, sort, or reuse. SunoBoard focuses on readable file organization so exported music stays useful.
+A folder full of raw IDs is hard to search, sort, or reuse. Suno Board focuses on readable file organization so exported music stays useful.
 
 ### Lyrics and metadata scattered across tools
 
@@ -166,20 +166,20 @@ AI music needs creative presentation. Lyric videos, visualizers, and edited vide
 
 ### Privacy concerns
 
-Creators should not have to upload unreleased songs to an unknown third-party server just to create a video. SunoBoard keeps the workflow local wherever the browser can do the work.
+Creators should not have to upload unreleased songs to an unknown third-party server just to create a video. Suno Board keeps the workflow local wherever the browser can do the work.
 
 ## Links
 
-- Website: https://sunoboard.tearhappy.com/
+- Website: https://Suno Board.tearhappy.com/
 - Chrome Web Store: https://chromewebstore.google.com/detail/suno-board/mhacbbngoljoglmpeenmjdogjdmjfhpd
-- Privacy Policy: https://sunoboard.tearhappy.com/privacy
-- Terms: https://sunoboard.tearhappy.com/terms
-- Suno Downloader guide: https://sunoboard.tearhappy.com/suno-downloader
-- Suno Batch Downloader guide: https://sunoboard.tearhappy.com/suno-batch-downloader
-- Suno Lyric Video Maker guide: https://sunoboard.tearhappy.com/suno-lyric-video-maker
-- Suno Video Maker guide: https://sunoboard.tearhappy.com/suno-video-maker
-- Suno to YouTube guide: https://sunoboard.tearhappy.com/suno-to-youtube
-- Suno to TikTok guide: https://sunoboard.tearhappy.com/suno-to-tiktok
+- Privacy Policy: https://Suno Board.tearhappy.com/privacy
+- Terms: https://Suno Board.tearhappy.com/terms
+- Suno Downloader guide: https://Suno Board.tearhappy.com/suno-downloader
+- Suno Batch Downloader guide: https://Suno Board.tearhappy.com/suno-batch-downloader
+- Suno Lyric Video Maker guide: https://Suno Board.tearhappy.com/suno-lyric-video-maker
+- Suno Video Maker guide: https://Suno Board.tearhappy.com/suno-video-maker
+- Suno to YouTube guide: https://Suno Board.tearhappy.com/suno-to-youtube
+- Suno to TikTok guide: https://Suno Board.tearhappy.com/suno-to-tiktok
 
 ## Documentation
 
@@ -193,8 +193,8 @@ Creators should not have to upload unreleased songs to an unknown third-party se
 
 ## Status
 
-SunoBoard is available in the Chrome Web Store and is actively maintained for Suno creator workflows.
+Suno Board is available in the Chrome Web Store and is actively maintained for Suno creator workflows.
 
 ## Disclaimer
 
-SunoBoard is an independent product and is not affiliated with, endorsed by, or sponsored by Suno Inc. Suno is a trademark of its respective owner.
+Suno Board is an independent product and is not affiliated with, endorsed by, or sponsored by Suno Inc. Suno is a trademark of its respective owner.
