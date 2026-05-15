@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "SunoBoard",
+  "description": "SunoBoard is a Chrome extension for Suno creators that combines Suno downloading, batch export, lyric and metadata backup, lyric video creation, visualizers, and video export workflows in one browser-based tool.",
+  "brand": {
+    "@type": "Brand",
+    "name": "SunoBoard"
+  },
+  "category": "Chrome extension for AI music creators",
+  "url": "https://sunoboard.tearhappy.com/",
+  "image": "https://sunoboard.tearhappy.com/og-suno-board.png"
+}

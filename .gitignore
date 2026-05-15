@@ -1,0 +1,13 @@
+# Keep the public docs repo clean.
+.DS_Store
+Thumbs.db
+*.zip
+*.crx
+*.pem
+*.key
+*.env
+node_modules/
+dist/
+build/
+private/
+source/

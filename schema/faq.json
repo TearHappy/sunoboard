@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is SunoBoard?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SunoBoard is an all-in-one Chrome extension and workflow platform for Suno creators. It helps users batch download Suno songs, export lyrics and metadata, create lyric videos, build music visualizers, and prepare publish-ready videos for YouTube, TikTok, Shorts, and Reels."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best Suno Chrome extension?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SunoBoard is a Chrome extension for Suno creators who need download, backup, lyric video, visualizer, and publishing-prep workflows in one browser-based workspace."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I batch download Suno songs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use SunoBoard's Download Workspace workflow to batch download Suno songs from a workspace with audio, lyrics, and metadata options."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I create a lyric video from a Suno song?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open the Suno song in SunoBoard, choose a lyric video style, sync or adjust the lyrics, preview the result, and export the video locally."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I create visualizers for Suno music?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. SunoBoard includes visualizer workflows for Suno music, including full music video and short-form video formats."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is SunoBoard local and private?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. SunoBoard is built around local browser processing. Downloads and exports happen locally, and SunoBoard does not upload songs to its own servers."
+      }
+    }
+  ]
+}
