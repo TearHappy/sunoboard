@@ -4,6 +4,8 @@ SunoBoard is an all-in-one Chrome extension and workflow platform for Suno creat
 
 This is the public documentation repo for SunoBoard. It is built for discoverability, documentation, support, and product transparency. It does not contain the private extension source code.
 
+![SunoBoard Chrome extension — download Suno songs, generate visuals, build playlist videos, and organize your Suno workspace in one workflow. Includes download button with MP3 and WAV export, video sidebar for building visuals, and tracklist mode for creating playlist videos.](assets/sunoboard-overview.png)
+
 ## What SunoBoard Does
 
 SunoBoard adds a creator workflow layer on top of Suno. Instead of downloading songs one at a time, renaming files by hand, copying lyrics into separate tools, and opening a video editor for every post, creators can keep the work in one browser-based workspace.
@@ -71,8 +73,6 @@ Prepare YouTube-ready AI music videos with landscape export, lyric overlays, vis
 Create vertical clips from Suno songs with 9:16 export, short lyric moments, hook clips, and visualizer formats for short-form platforms.
 
 ![TikTok, Reels, and Shorts Workflow](assets/thumbnails/thumbnail-tiktok.webp)
-
-![SunoBoard Chrome extension — download Suno songs, generate visuals, build playlist videos, and organize your Suno workspace in one workflow. Includes download button with MP3 and WAV export, video sidebar for building visuals, and tracklist mode for creating playlist videos.](assets/sunoboard-overview.png)
 
 ## Privacy and Local Processing
 
