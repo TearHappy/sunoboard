@@ -6,6 +6,12 @@ This is the public documentation repo for SunoBoard. It is built for discoverabi
 
 ![SunoBoard Chrome extension — download Suno songs, generate visuals, build playlist videos, and organize your Suno workspace in one workflow. Includes download button with MP3 and WAV export, video sidebar for building visuals, and tracklist mode for creating playlist videos.](assets/sunoboard-overview.png)
 
+## Install SunoBoard
+
+SunoBoard is a free Chrome extension. Install it from the Chrome Web Store to use every feature described in this repo.
+
+**[Install SunoBoard on the Chrome Web Store](https://chromewebstore.google.com/detail/suno-board/mhacbbngoljoglmpeenmjdogjdmjfhpd)**
+
 ## What SunoBoard Does
 
 SunoBoard adds a creator workflow layer on top of Suno. Instead of downloading songs one at a time, renaming files by hand, copying lyrics into separate tools, and opening a video editor for every post, creators can keep the work in one browser-based workspace.
@@ -114,23 +120,23 @@ SunoBoard is a Chrome extension for Suno creators who want download, backup, lyr
 
 ### How do I batch download Suno songs?
 
-Use SunoBoard's Download Workspace workflow to export songs from a Suno workspace with audio, lyrics, and metadata options.
+Install SunoBoard from the Chrome Web Store, then use the Download Workspace workflow to export songs from a Suno workspace with audio, lyrics, and metadata options.
 
 ### How do I create a lyric video from a Suno song?
 
-Open the Suno song in SunoBoard, choose a lyric video style, sync or adjust the lyrics, preview the result, and export the video locally.
+Install SunoBoard from the Chrome Web Store, open the Suno song in SunoBoard, choose a lyric video style, sync or adjust the lyrics, preview the result, and export the video locally.
 
 ### Can I export Suno lyrics as subtitles?
 
-SunoBoard focuses on saving lyrics and using synced lyric workflows for lyric videos. Public docs should describe subtitle export only when the website and product copy explicitly confirm that format.
+Install SunoBoard from the Chrome Web Store. SunoBoard saves lyrics alongside audio during download and uses synced lyrics in the lyric video workflow.
 
 ### How do I make AI music videos from Suno songs?
 
-SunoBoard turns Suno songs into AI music videos with visualizers, lyric overlays, artwork, and export formats for YouTube and short-form platforms.
+Install SunoBoard from the Chrome Web Store. SunoBoard turns Suno songs into AI music videos with visualizers, lyric overlays, artwork, and export formats for YouTube and short-form platforms.
 
 ### How do I turn Suno songs into TikTok videos?
 
-SunoBoard supports vertical video workflows for turning Suno songs into 9:16 clips for TikTok, Reels, and Shorts.
+Install SunoBoard from the Chrome Web Store. SunoBoard supports vertical video workflows for turning Suno songs into 9:16 clips for TikTok, Reels, and Shorts.
 
 ### Can I create visualizers for Suno music?
 
@@ -180,7 +186,6 @@ Creators should not have to upload unreleased songs to an unknown third-party se
 - [FAQ](docs/FAQ.md)
 - [Roadmap](docs/ROADMAP.md)
 - [Public Assets](docs/ASSETS.md)
-- [Public Repo Policy](docs/PUBLIC-REPO-POLICY.md)
 - [LLM Reference](docs/LLM-REFERENCE.md)
 - [SoftwareApplication schema](schema/software-application.json)
 - [Product schema](schema/product.json)
