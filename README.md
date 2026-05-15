@@ -72,6 +72,8 @@ Create vertical clips from Suno songs with 9:16 export, short lyric moments, hoo
 
 ![TikTok, Reels, and Shorts Workflow](assets/thumbnails/thumbnail-tiktok.webp)
 
+![SunoBoard Chrome extension — download Suno songs, generate visuals, build playlist videos, and organize your Suno workspace in one workflow. Includes download button with MP3 and WAV export, video sidebar for building visuals, and tracklist mode for creating playlist videos.](assets/sunoboard-overview.png)
+
 ## Privacy and Local Processing
 
 SunoBoard is built around local processing. Downloads and exports happen in the browser, and your audio is not uploaded to SunoBoard servers.
